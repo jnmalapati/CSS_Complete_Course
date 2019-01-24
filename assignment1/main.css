@@ -1,0 +1,31 @@
+html,
+body {
+    height: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.mybox {
+    border: 5px solid green;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 300px;
+    width: calc(50% - 10px);
+}
+
+div:last-of-type:hover {
+    border-color: blueviolet;
+}
+/* .mybox:last-of-type {
+    background: blueviolet;
+} */
+
+#firstBox {
+    /* display: none; */
+    /* visibility: hidden; */
+}
