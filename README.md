@@ -10,3 +10,5 @@
 * When is using !important  okay? => https://css-tricks.com/when-using-important-is-the-right-choice/
 * The :not()  pseudo class: https://developer.mozilla.org/en-US/docs/Web/CSS/:not
 Can I Use: https://caniuse.com/
+
+* More on float: https://developer.mozilla.org/en-US/docs/Web/CSS/float
